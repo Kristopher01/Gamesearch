@@ -1,0 +1,16 @@
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\bin\Debug\IGDB_Test.exe.config
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\bin\Debug\IGDB_Test.exe
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\bin\Debug\IGDB_Test.pdb
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\obj\Debug\IGDB_Test.csprojResolveAssemblyReference.cache
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\obj\Debug\IGDB_Test.csproj.CoreCompileInputs.cache
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\obj\Debug\IGDB_Test.exe
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\obj\Debug\IGDB_Test.pdb
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\bin\Debug\System.Net.Http.dll
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_Test\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+\\wsl$\Ubuntu\home\kristopher\Portfolio\IGDB_Test\IGDB_Test\obj\Debug\IGDB_Test.exe
+\\wsl$\Ubuntu\home\kristopher\Portfolio\IGDB_Test\IGDB_Test\obj\Debug\IGDB_Test.pdb
